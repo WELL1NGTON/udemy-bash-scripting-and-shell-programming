@@ -39,7 +39,7 @@ Links:
 - [x] Shell Scripting, Part I 08:38
 - [x] Shell Scripting, Part II 07:11
 - [x] Shell Scripting 8 perguntas
-- [ ] Practice Exercises 01:18
+- [x] Practice Exercises 01:18
 
 ### Return Codes and Exit Statuses
 
