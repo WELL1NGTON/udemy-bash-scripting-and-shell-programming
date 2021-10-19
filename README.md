@@ -50,10 +50,10 @@ Links:
 
 ### Shell Functions
 
-- [ ] Functions, Part I 07:18
-- [ ] Functions, Part II 04:48
-- [ ] Functions 8 perguntas
-- [ ] Practice Exercises 00:33
+- [x] Functions, Part I 07:18
+- [x] Functions, Part II 04:48
+- [x] Functions 8 perguntas
+- [x] Practice Exercises 00:33
 
 ### Shell Script Checklist and Template
 
