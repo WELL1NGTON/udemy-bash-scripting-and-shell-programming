@@ -43,10 +43,10 @@ Links:
 
 ### Return Codes and Exit Statuses
 
-- [ ] Exit Statuses and Return Codes 08:52
-- [ ] Exit Status Demo 05:56
-- [ ] Exit Statuses and Return Codes 9 perguntas
-- [ ] Practice Exercises 00:36
+- [x] Exit Statuses and Return Codes 08:52
+- [x] Exit Status Demo 05:56
+- [x] Exit Statuses and Return Codes 9 perguntas
+- [x] Practice Exercises 00:36
 
 ### Shell Functions
 
