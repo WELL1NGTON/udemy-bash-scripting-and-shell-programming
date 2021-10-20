@@ -62,13 +62,13 @@ Links:
 
 ### Wildcards
 
-- [ ] Introduction to Wildcards 00:23
-- [ ] Wildcard Introduction, Part I 05:11
-- [ ] Wildcard Introduction, Part II 07:03
-- [ ] Wildcards in Shell Scripts 03:41
-- [ ] Wildcard Scripting Demo 04:01
-- [ ] Wildcards 5 perguntas
-- [ ] Practice Exercises 00:58
+- [x] Introduction to Wildcards 00:23
+- [x] Wildcard Introduction, Part I 05:11
+- [x] Wildcard Introduction, Part II 07:03
+- [x] Wildcards in Shell Scripts 03:41
+- [x] Wildcard Scripting Demo 04:01
+- [x] Wildcards 5 perguntas
+- [x] Practice Exercises 00:58
 
 ### Case Statements and Logic
 
