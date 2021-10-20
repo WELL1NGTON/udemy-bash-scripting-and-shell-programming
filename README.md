@@ -57,8 +57,8 @@ Links:
 
 ### Shell Script Checklist and Template
 
-- [ ] Shell Script Checklist and Template (Video) 01:59
-- [ ] Shell Script Check List and Template 00:05
+- [x] Shell Script Checklist and Template (Video) 01:59
+- [x] Shell Script Check List and Template 00:05
 
 ### Wildcards
 
