@@ -72,9 +72,9 @@ Links:
 
 ### Case Statements and Logic
 
-- [ ] Case Statements 05:43
-- [ ] Case Statements 4 perguntas
-- [ ] Practice Exercises 00:26
+- [x] Case Statements 05:43
+- [x] Case Statements 4 perguntas
+- [x] Practice Exercises 00:26
 
 ### Logging
 
