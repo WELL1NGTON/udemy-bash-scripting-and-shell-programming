@@ -78,9 +78,9 @@ Links:
 
 ### Logging
 
-- [ ] Logging 07:40
-- [ ] Logging 3 perguntas
-- [ ] Logging 00:16
+- [x] Logging 07:40
+- [x] Logging 3 perguntas
+- [x] Logging 00:16
 
 ### While Loops
 
