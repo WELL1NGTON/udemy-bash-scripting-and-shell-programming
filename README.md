@@ -84,10 +84,10 @@ Links:
 
 ### While Loops
 
-- [ ] While Loops, Part I 05:42
-- [ ] While Loops, Part II 05:48
-- [ ] While Loops 5 perguntas
-- [ ] Practice Exercises 01:12
+- [x] While Loops, Part I 05:42
+- [x] While Loops, Part II 05:48
+- [x] While Loops 5 perguntas
+- [x] Practice Exercises 01:12
 
 ### Debugging Your Bash Programs
 
