@@ -22,9 +22,9 @@ Links:
 - [Twitter](https://twitter.com/LinuxTA)
 - [Facebook](https://web.facebook.com/linuxtrainingacademy)
 
-<!-- ## Certificado
+## Certificado
 
-[![Certificado Udemy](images/UC-)](http://ude.my/UC-) -->
+[![Certificado Udemy](images/UC-f52f992a-4fb3-441c-981e-a2fe2efeabea.jpg)](http://ude.my/UC-f52f992a-4fb3-441c-981e-a2fe2efeabea)
 
 ## Progresso do curso
 
