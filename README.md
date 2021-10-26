@@ -91,10 +91,10 @@ Links:
 
 ### Debugging Your Bash Programs
 
-- [ ] Debugging 08:08
-- [ ] More Debugging Tips 11:39
-- [ ] Debugging 10 perguntas
-- [ ] Practice Exercises 00:20
+- [x] Debugging 08:08
+- [x] More Debugging Tips 11:39
+- [x] Debugging 10 perguntas
+- [x] Practice Exercises 00:20
 
 ### Data Manipulation and Text Transformations with Sed
 
