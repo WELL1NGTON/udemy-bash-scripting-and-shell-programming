@@ -98,16 +98,16 @@ Links:
 
 ### Data Manipulation and Text Transformations with Sed
 
-- [ ] Data Manipulation and Text Transformations with Sed 28:50
+- [x] Data Manipulation and Text Transformations with Sed 28:50
 
 ### Shell Scripts Used to Create This Course
 
-- [ ] Scripts Used to Create This Course 03:59
+- [x] Scripts Used to Create This Course 03:59
 
 ### Slides
 
-- [ ] Slides 00:05
+- [x] Slides 00:05
 
 ### Bonus Section
 
-- [ ] Bonus Lecture 01:05
+- [x] Bonus Lecture 01:05
